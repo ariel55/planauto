@@ -1,8 +1,6 @@
 
 
 function GrabarBitacora {
-	LOGDIR=`pwd`
-	LOGSIZE=5
 
 	if (( $# < 2 ))
 		then
@@ -12,13 +10,13 @@ function GrabarBitacora {
 
 	local comando=$1
 	local mensaje=$2
-	if (( $# < 3 ))
+	if [ $# -lt 3  -o "$3" == "" ]
 		then
 			local info="INFO"
 		else	
 			if [ "$3" == "INFO" -o "$3" == "WAR" -o "$3" == "ERR" ]; then
 				info=$3
-			else
+			else	
 		 		GrabarBitacora "GrabarBitacora" "Tipo de mensaje incorrecto" "ERR" 
 				return 1
 			fi
@@ -44,4 +42,4 @@ function GrabarBitacora {
 	return 0
 }
 
-GrabarBitacora $1 $2 $3
+GrabarBitacora "$@"
