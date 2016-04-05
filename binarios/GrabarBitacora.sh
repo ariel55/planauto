@@ -38,7 +38,7 @@ function GrabarBitacora {
 		GrabarBitacora "$comando" "Log Excedido"
 		echo $aux >> $file
 	fi
-	echo "$USER `date` $comando $info $mensaje" >> $file
+	echo "$USER-`date`-$comando-$info-$mensaje" >> $file
 	return 0
 }
 
