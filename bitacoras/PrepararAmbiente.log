@@ -1,0 +1,24 @@
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-Log Excedido
+f-mié abr 6 16:08:34 ART 2016-PrepararAmbiente-INFO-Estado del Sistema: INICIALIZADO f-mié abr 6 16:08:35 ART 2016-PrepararAmbiente-ERR-Ambiente ya inicializado
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-BINDIR=/home/f/tp/planauto/binarios
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-MAEDIR=/home/f/tp/planauto/maestros
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-ARRDIR=/home/f/tp/planauto/arribados
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-OKDIR=/home/f/tp/planauto/aceptados
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-PROCDIR=/home/f/tp/planauto/procesados
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-INFODIR=/home/f/tp/planauto/informes
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-LOGDIR=/home/f/tp/planauto/bitacoras
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-NOKDIR=/home/f/tp/planauto/rechazados
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-LOGSIZE=30
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-SLEEPTIME=1
+f-mié abr  6 16:15:48 ART 2016-PrepararAmbiente-INFO-Estado del Sistema: INICIALIZADO
+f-mié abr  6 16:16:01 ART 2016-PrepararAmbiente-INFO-BINDIR=/home/f/tp/planauto/binarios
+f-mié abr  6 16:16:01 ART 2016-PrepararAmbiente-INFO-MAEDIR=/home/f/tp/planauto/maestros
+f-mié abr  6 16:16:01 ART 2016-PrepararAmbiente-INFO-ARRDIR=/home/f/tp/planauto/arribados
+f-mié abr  6 16:16:01 ART 2016-PrepararAmbiente-INFO-OKDIR=/home/f/tp/planauto/aceptados
+f-mié abr  6 16:16:01 ART 2016-PrepararAmbiente-INFO-PROCDIR=/home/f/tp/planauto/procesados
+f-mié abr  6 16:16:01 ART 2016-PrepararAmbiente-INFO-INFODIR=/home/f/tp/planauto/informes
+f-mié abr  6 16:16:01 ART 2016-PrepararAmbiente-INFO-LOGDIR=/home/f/tp/planauto/bitacoras
+f-mié abr  6 16:16:01 ART 2016-PrepararAmbiente-INFO-NOKDIR=/home/f/tp/planauto/rechazados
+f-mié abr  6 16:16:01 ART 2016-PrepararAmbiente-INFO-LOGSIZE=30
+f-mié abr  6 16:16:01 ART 2016-PrepararAmbiente-INFO-SLEEPTIME=1
+f-mié abr  6 16:16:01 ART 2016-PrepararAmbiente-INFO-Estado del Sistema: INICIALIZADO
