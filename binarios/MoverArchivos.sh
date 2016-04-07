@@ -1,3 +1,4 @@
+#!/bin/bash
 
 if (( $# < 2 )) ; then
 	$BINDIR/GrabarBitacora.sh "MoverArchivos" "Cantidad de parametros incorrecta" "ERR"

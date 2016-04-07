@@ -4,7 +4,7 @@
 # Para que funcione correctamente todos los procesos tienen q tener /bin/bash al inicio, si no no aparece el nombre del script ejecutando ps
 
 if [ $# -lt 1 ]; then
-	echo "Deve indicar el nombre del script a ejecutar"
+	echo "Debe indicar el nombre del script a ejecutar"
 	exit
 fi
 

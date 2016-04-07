@@ -1,3 +1,4 @@
+#!/bin/bash
 function verificar_permisos_ejecucion {
 	old_ifs=$IFS
 	IFS=$'\n'
